@@ -5,6 +5,7 @@
 
 This is the final capstone project for the DevOps proffesional certification course. This project involves creating of e-commerce account microservice to keep track of customers' details.
 
+[![CI Build](https://github.com/segun-ade/devops-capstone-project/actions/workflows/ci-build.yml/badge.svg)](https://github.com/segun-ade/devops-capstone-project/actions/workflows/ci-build.yml)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python 3.9](https://img.shields.io/badge/Python-3.9-green.svg)](https://shields.io/)
 
